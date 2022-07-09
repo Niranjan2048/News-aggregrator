@@ -9,5 +9,4 @@ urlpatterns = [
   path('scrape_jobs',scrape_jobs, name="scrape_jobs"),
   path('scrape_hatke',scrape_hatke, name="scrape_hatke"),
   
-
-]
+ ]
